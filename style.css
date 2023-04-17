@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+   color: azure;
+   text-decoration: underline;
+   display: flex;
+}
+img{
+    width: 150px;
+    height: 60px;
+}
+
+li{
+    list-style: none;
+    margin: 10px;
+    text-align: end;
+    text-decoration: underline;
+    color: azure;
+    font-size: 22px;
+
+}
